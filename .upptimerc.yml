@@ -6,15 +6,15 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: 80px
     url: https://80px.com
-  - name: urchinlyrics
+  - name: urchinlyrics.com
     url: https://urchinlyrics.com
   - name: markmalone.us
     url: https://markmalone.us
-  - name: texascherry
+  - name: texascherry.com
     url: https://texascherry.com
-  - name: api.texascherry
+  - name: api.texascherry.com
     url: https://api.texascherry.com
-  - name: lnwworldwide
+  - name: lnwworldwide.org
     url: https://lnwworldwide.org
 
 status-website:
