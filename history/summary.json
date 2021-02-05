@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.81%",
+    "uptimeDay": "53.66%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 667
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://urchinlyrics.com",
     "icon": "https://favicons.githubusercontent.com/urchinlyrics.com",
     "slug": "urchinlyrics-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 471,
-    "timeWeek": 387,
-    "timeMonth": 428,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "53.74%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
+    "time": 395,
+    "timeDay": 435,
+    "timeWeek": 388,
+    "timeMonth": 427,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 666
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://markmalone.us",
     "icon": "https://favicons.githubusercontent.com/markmalone.us",
     "slug": "markmalone-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 576,
-    "timeWeek": 522,
-    "timeMonth": 596,
-    "timeYear": 540,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "53.74%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
+    "time": 544,
+    "timeDay": 658,
+    "timeWeek": 549,
+    "timeMonth": 601,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 666
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.81%",
+    "uptimeDay": "53.67%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
     "time": 542,
     "timeDay": 598,
     "timeWeek": 494,
     "timeMonth": 580,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 667
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/api.texascherry.com",
     "slug": "api-texascherry-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.81%",
+    "uptimeDay": "53.67%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
     "time": 360,
     "timeDay": 481,
     "timeWeek": 338,
     "timeMonth": 380,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 667
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/lnwworldwide.org",
     "slug": "lnwworldwide-org",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.81%",
+    "uptimeDay": "53.67%",
+    "uptimeWeek": "93.38%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.81%",
     "time": 371,
     "timeDay": 368,
     "timeWeek": 324,
     "timeMonth": 402,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 667
     }
   }
 ]
