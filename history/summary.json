@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "48.09%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.62%",
+    "uptimeDay": "46.28%",
+    "uptimeWeek": "92.33%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.62%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 748
+      "2021-02-05": 774
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/markmalone.us",
     "slug": "markmalone-us",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "53.73%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.77%",
+    "uptimeDay": "51.92%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.77%",
     "time": 542,
     "timeDay": 584,
     "timeWeek": 536,
     "timeMonth": 596,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2021-02-05": 666
+      "2021-02-05": 692
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "50.42%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.68%",
+    "uptimeDay": "48.61%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.68%",
     "time": 537,
     "timeDay": 484,
     "timeWeek": 479,
     "timeMonth": 570,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2021-02-05": 714
+      "2021-02-05": 740
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/api.texascherry.com",
     "slug": "api-texascherry-com",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "53.18%",
-    "uptimeWeek": "93.31%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.75%",
+    "uptimeDay": "51.36%",
+    "uptimeWeek": "93.05%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.75%",
     "time": 363,
     "timeDay": 445,
     "timeWeek": 358,
     "timeMonth": 382,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2021-02-05": 674
+      "2021-02-05": 700
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://lnwworldwide.org",
     "icon": "https://favicons.githubusercontent.com/lnwworldwide.org",
     "slug": "lnwworldwide-org",
-    "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "48.10%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "98.67%",
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "46.78%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.63%",
     "time": 371,
-    "timeDay": 368,
-    "timeWeek": 324,
+    "timeDay": 387,
+    "timeWeek": 335,
     "timeMonth": 402,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-02-05": 747
+      "2021-02-05": 766
     }
   }
 ]
