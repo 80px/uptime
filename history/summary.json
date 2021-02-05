@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "53.66%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.79%",
+    "uptimeDay": "53.17%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.79%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 667
+      "2021-02-05": 674
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.80%",
+    "uptimeDay": "53.17%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.80%",
     "time": 542,
     "timeDay": 598,
     "timeWeek": 494,
     "timeMonth": 580,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2021-02-05": 667
+      "2021-02-05": 674
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://api.texascherry.com",
     "icon": "https://favicons.githubusercontent.com/api.texascherry.com",
     "slug": "api-texascherry-com",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.81%",
-    "time": 360,
-    "timeDay": 481,
-    "timeWeek": 338,
-    "timeMonth": 380,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "53.18%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.80%",
+    "time": 362,
+    "timeDay": 470,
+    "timeWeek": 353,
+    "timeMonth": 382,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2021-02-05": 667
+      "2021-02-05": 674
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/lnwworldwide.org",
     "slug": "lnwworldwide-org",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "53.67%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.81%",
+    "uptime": "98.80%",
+    "uptimeDay": "53.18%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.80%",
     "time": 371,
     "timeDay": 368,
     "timeWeek": 324,
     "timeMonth": 402,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-02-05": 667
+      "2021-02-05": 674
     }
   }
 ]
