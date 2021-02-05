@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "46.28%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.60%",
+    "uptimeDay": "45.38%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.60%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 774
+      "2021-02-05": 787
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://markmalone.us",
     "icon": "https://favicons.githubusercontent.com/markmalone.us",
     "slug": "markmalone-us",
-    "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "51.92%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.77%",
-    "time": 542,
-    "timeDay": 584,
-    "timeWeek": 536,
-    "timeMonth": 596,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "98.75%",
+    "uptimeDay": "51.27%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.75%",
+    "time": 546,
+    "timeDay": 616,
+    "timeWeek": 554,
+    "timeMonth": 599,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2021-02-05": 692
+      "2021-02-05": 702
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
     "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "48.61%",
-    "uptimeWeek": "92.66%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.66%",
+    "uptimeDay": "47.72%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.66%",
     "time": 537,
     "timeDay": 484,
     "timeWeek": 479,
     "timeMonth": 570,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2021-02-05": 740
+      "2021-02-05": 753
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://api.texascherry.com",
     "icon": "https://favicons.githubusercontent.com/api.texascherry.com",
     "slug": "api-texascherry-com",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "51.36%",
-    "uptimeWeek": "93.05%",
-    "uptimeMonth": "98.40%",
-    "uptimeYear": "98.75%",
-    "time": 363,
-    "timeDay": 445,
-    "timeWeek": 358,
-    "timeMonth": 382,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "50.62%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.73%",
+    "time": 365,
+    "timeDay": 446,
+    "timeWeek": 367,
+    "timeMonth": 384,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2021-02-05": 700
+      "2021-02-05": 711
     }
   },
   {
