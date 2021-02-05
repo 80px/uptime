@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "45.38%",
-    "uptimeWeek": "92.20%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.60%",
+    "uptime": "98.58%",
+    "uptimeDay": "44.85%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.58%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 787
+      "2021-02-05": 794
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://texascherry.com",
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "47.72%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.66%",
-    "time": 537,
-    "timeDay": 484,
-    "timeWeek": 479,
-    "timeMonth": 570,
-    "timeYear": 537,
+    "status": "up",
+    "uptime": "98.65%",
+    "uptimeDay": "47.31%",
+    "uptimeWeek": "92.47%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.65%",
+    "time": 541,
+    "timeDay": 548,
+    "timeWeek": 505,
+    "timeMonth": 575,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2021-02-05": 753
+      "2021-02-05": 759
     }
   },
   {
