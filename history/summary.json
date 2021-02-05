@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/80px.com",
     "slug": "80px-com",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "50.42%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.67%",
+    "uptimeDay": "48.09%",
+    "uptimeWeek": "92.58%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.67%",
     "time": 558,
     "timeDay": 729,
     "timeWeek": 546,
     "timeMonth": 608,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-05": 714
+      "2021-02-05": 748
     }
   },
   {
@@ -44,17 +44,17 @@
     "url": "https://markmalone.us",
     "icon": "https://favicons.githubusercontent.com/markmalone.us",
     "slug": "markmalone-us",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "53.74%",
+    "uptimeDay": "53.73%",
     "uptimeWeek": "93.39%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.81%",
-    "time": 544,
-    "timeDay": 658,
-    "timeWeek": 549,
-    "timeMonth": 601,
-    "timeYear": 544,
+    "time": 542,
+    "timeDay": 584,
+    "timeWeek": 536,
+    "timeMonth": 596,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2021-02-05": 666
     }
@@ -64,17 +64,17 @@
     "url": "https://texascherry.com",
     "icon": "https://favicons.githubusercontent.com/texascherry.com",
     "slug": "texascherry-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "50.43%",
+    "uptimeDay": "50.42%",
     "uptimeWeek": "92.92%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.73%",
-    "time": 539,
-    "timeDay": 505,
-    "timeWeek": 484,
-    "timeMonth": 575,
-    "timeYear": 539,
+    "time": 537,
+    "timeDay": 484,
+    "timeWeek": 479,
+    "timeMonth": 570,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2021-02-05": 714
     }
@@ -84,17 +84,17 @@
     "url": "https://api.texascherry.com",
     "icon": "https://favicons.githubusercontent.com/api.texascherry.com",
     "slug": "api-texascherry-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
     "uptimeDay": "53.18%",
     "uptimeWeek": "93.31%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "98.80%",
-    "time": 362,
-    "timeDay": 470,
-    "timeWeek": 353,
+    "time": 363,
+    "timeDay": 445,
+    "timeWeek": 358,
     "timeMonth": 382,
-    "timeYear": 362,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2021-02-05": 674
     }
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/lnwworldwide.org",
     "slug": "lnwworldwide-org",
     "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "50.43%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.67%",
+    "uptimeDay": "48.10%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.67%",
     "time": 371,
     "timeDay": 368,
     "timeWeek": 324,
     "timeMonth": 402,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2021-02-05": 714
+      "2021-02-05": 747
     }
   }
 ]
