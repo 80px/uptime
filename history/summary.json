@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 649,
-    "timeWeek": 467,
-    "timeMonth": 414,
-    "timeYear": 421,
+    "time": 411,
+    "timeDay": 88,
+    "timeWeek": 415,
+    "timeMonth": 404,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.80px.com.ico",
     "slug": "code-80px-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 419,
-    "timeDay": 438,
-    "timeWeek": 420,
-    "timeMonth": 416,
-    "timeYear": 419,
-    "dailyMinutesDown": {
-      "2023-08-05": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 413,
+    "timeDay": 290,
+    "timeWeek": 392,
+    "timeMonth": 409,
+    "timeYear": 413,
+    "dailyMinutesDown": {}
   }
 ]
