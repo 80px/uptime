@@ -24,7 +24,7 @@
     "url": "https://code.80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.80px.com.ico",
     "slug": "code-80px-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 361,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-09-19": 16,
       "2023-09-01": 18,
       "2023-08-23": 16,
