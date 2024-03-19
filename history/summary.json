@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 235,
-    "timeWeek": 240,
-    "timeMonth": 218,
-    "timeYear": 328,
+    "time": 327,
+    "timeDay": 126,
+    "timeWeek": 226,
+    "timeMonth": 213,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "code-80px-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 887,
-    "timeWeek": 593,
-    "timeMonth": 503,
-    "timeYear": 405,
-    "dailyMinutesDown": {
-      "2024-03-18": 13
-    }
+    "time": 404,
+    "timeDay": 817,
+    "timeWeek": 560,
+    "timeMonth": 438,
+    "timeYear": 404,
+    "dailyMinutesDown": {}
   }
 ]
