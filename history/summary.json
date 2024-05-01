@@ -4,19 +4,19 @@
     "url": "https://80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/80px.com.ico",
     "slug": "80px-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 285,
-    "timeWeek": 246,
-    "timeMonth": 223,
+    "timeDay": 295,
+    "timeWeek": 253,
+    "timeMonth": 226,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 6
     }
   },
   {
