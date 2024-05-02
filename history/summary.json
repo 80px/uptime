@@ -6,18 +6,16 @@
     "slug": "80px-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 295,
-    "timeWeek": 253,
-    "timeMonth": 226,
+    "timeDay": 339,
+    "timeWeek": 264,
+    "timeMonth": 234,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2024-05-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "code.80px.com",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 512,
-    "timeWeek": 387,
-    "timeMonth": 571,
+    "timeDay": 476,
+    "timeWeek": 386,
+    "timeMonth": 579,
     "timeYear": 418,
     "dailyMinutesDown": {}
   }
