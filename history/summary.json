@@ -22,19 +22,19 @@
     "url": "https://code.80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.80px.com.ico",
     "slug": "code-80px-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 429,
-    "timeWeek": 373,
-    "timeMonth": 378,
-    "timeYear": 417,
+    "time": 419,
+    "timeDay": 696,
+    "timeWeek": 468,
+    "timeMonth": 404,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 20
     }
   }
 ]
