@@ -4,7 +4,7 @@
     "url": "https://80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/80px.com.ico",
     "slug": "80px-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 234,
     "timeMonth": 253,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   },
   {
     "name": "code.80px.com",
     "url": "https://code.80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/code.80px.com.ico",
     "slug": "code-80px-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 236,
-    "timeWeek": 346,
-    "timeMonth": 393,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 216,
+    "timeWeek": 327,
+    "timeMonth": 387,
+    "timeYear": 415,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-06-22": 20
     }
   }
