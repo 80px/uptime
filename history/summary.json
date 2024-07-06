@@ -6,18 +6,16 @@
     "slug": "80px-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 121,
-    "timeWeek": 216,
-    "timeMonth": 248,
-    "timeYear": 300,
-    "dailyMinutesDown": {
-      "2024-07-05": 7
-    }
+    "timeDay": 97,
+    "timeWeek": 194,
+    "timeMonth": 241,
+    "timeYear": 299,
+    "dailyMinutesDown": {}
   },
   {
     "name": "code.80px.com",
@@ -25,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.80px.com.ico",
     "slug": "code-80px-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 416,
-    "timeDay": 314,
-    "timeWeek": 347,
-    "timeMonth": 391,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
+    "time": 415,
+    "timeDay": 318,
+    "timeWeek": 330,
+    "timeMonth": 385,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-07-05": 7,
       "2024-06-22": 20
     }
   }
