@@ -4,7 +4,7 @@
     "url": "https://80px.com",
     "icon": "https://icons.duckduckgo.com/ip3/80px.com.ico",
     "slug": "80px-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 646,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-06-12": 55,
       "2025-06-11": 217,
       "2025-04-17": 169,
