@@ -12,7 +12,6 @@ status-website: # Status website (optional)
   cname: uptime.80px.com # Custom domain CNAME
   # baseUrl: /repo
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime
   name: Uptime
   introTitle: "Status website for 80px."
   # introMessage: Thank you for stopping by.
