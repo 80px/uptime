@@ -6,10 +6,11 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: 80px.com
     url: https://80px.com
-
-status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: 80px.github.io
+assignees: # Users to assign downtime issues (optional)
+  - markim
+status-website: # Status website (optional)
+  cname: uptime.80px.com # Custom domain CNAME
+  # baseUrl: /repo
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   name: Uptime
