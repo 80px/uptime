@@ -6,17 +6,15 @@
     "slug": "80px-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 315,
+    "timeDay": 242,
     "timeWeek": 337,
     "timeMonth": 576,
     "timeYear": 359,
-    "dailyMinutesDown": {
-      "2025-11-19": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
