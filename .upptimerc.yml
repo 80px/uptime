@@ -6,8 +6,11 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: 80px.com
     url: https://80px.com
+    headers:
+      - "X-Upptime-Secret: $SECRET_HEADER"
     expectedStatusCodes:
       - 200
+      - 301
       - 302
 assignees: # Users to assign downtime issues (optional)
   - markim
