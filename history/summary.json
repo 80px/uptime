@@ -4,17 +4,19 @@
     "url": "https://80px.com/health.txt",
     "icon": "https://icons.duckduckgo.com/ip3/80px.com.ico",
     "slug": "80px-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 15288,
-    "timeWeek": 4064,
-    "timeMonth": 1206,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "49.57%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.86%",
+    "time": 371,
+    "timeDay": 10345,
+    "timeWeek": 3663,
+    "timeMonth": 1185,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-12": 726
+    }
   }
 ]
