@@ -1,7 +1,7 @@
 url: https://80px.com/health.txt
-status: down
-code: 504
-responseTime: 30187
-lastUpdated: 2026-05-12T04:50:03.472Z
+status: up
+code: 200
+responseTime: 458
+lastUpdated: 2026-05-12T16:56:11.904Z
 startTime: 2023-07-03T17:29:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
