@@ -4,22 +4,23 @@
     "url": "https://80px.com/health.txt",
     "icon": "https://icons.duckduckgo.com/ip3/80px.com.ico",
     "slug": "80px-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 382,
-    "timeDay": 209,
-    "timeWeek": 255,
-    "timeMonth": 256,
-    "timeYear": 340,
+    "timeDay": 256,
+    "timeWeek": 245,
+    "timeMonth": 255,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2026-07-09": 161,
       "2026-09-10": 1376,
       "2026-09-09": 9,
-      "2026-10-07": 434
+      "2026-10-07": 434,
+      "2026-11-10": 0
     }
   }
 ]
